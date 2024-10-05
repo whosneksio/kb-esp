@@ -20,5 +20,7 @@
 
 #### credits:
 
-https://github.com/EriksRemess/hyperrust
+https://github.com/EriksRemess/hyperrust \
 https://lua.neverlose.cc/useful-information/script-examples/vector
+
+* yes i know this project is pointless
