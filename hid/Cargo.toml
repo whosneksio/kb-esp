@@ -1,0 +1,8 @@
+[package]
+name = "hid"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.17", features = ["derive"] }
+hidapi = { version = "2.6.3", features = ["windows-native", "linux-static-hidraw", "macos-shared-device"], default-features = false }
